@@ -2,7 +2,7 @@
 
 Point cloud visuals application for use with Microsoft Kinect based on the point cloud example code by Daniel Shiffman.
 
-Most major change was adding Syphon support so that output can be used natively by other applications
+Most major change was adding Syphon support so that output can be used natively by other applications.
 
 ## Planned additons
 - MIDI support
