@@ -1,13 +1,14 @@
+// Point Cloud with Syphon Support
+
 // Daniel Shiffman
 // Kinect Point Cloud example
-
 // https://github.com/shiffman/OpenKinect-for-Processing
 // http://shiffman.net/p5/kinect/
 
 import org.openkinect.freenect.*;
 import org.openkinect.processing.*;
 
-// add syphon
+// add syphon library
 import codeanticode.syphon.*;
 
 // Kinect Library object
